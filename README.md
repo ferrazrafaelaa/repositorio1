@@ -1,4 +1,4 @@
 # repositorio1
-Nome: Rafaela 
+Nome: Rafaela
 Sistemas de Informação
 2025.1 
